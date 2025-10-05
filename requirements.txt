@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
+scikit-learn==1.4.0
+
+# Machine Learning & NLP
+sentence-transformers==2.3.1
+spacy==3.7.2
+nltk==3.8.1
+torch==2.1.2
+transformers==4.36.2
+
+# SpaCy Language Model (English)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Document Processing - ALL FORMATS
+PyPDF2==3.0.1
+pdfminer.six==20231228
+python-docx==1.1.0
+
+# Visualization
+plotly==5.18.0
