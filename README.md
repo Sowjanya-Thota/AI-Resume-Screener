@@ -1,5 +1,3 @@
-
-````markdown
 # 🧠 Advanced Resume Screening System
 
 A **production-like, single-file resume screening system** built with **Streamlit** for parsing, analyzing, and scoring resumes against job descriptions (JD). It combines NLP, TF-IDF, optional BERT embeddings, keyword extraction, and tech skill matching to provide a comprehensive candidate evaluation.
